@@ -22,4 +22,5 @@ This project is a simple Accordian project. Also, a part of my learnings in Java
 #
 Just click on the deployed link below to see the project.
 
-[Accordion](https://accordion.netlify.app)
+[Accordion](https://projectaccordionn.netlify.app/)
+
